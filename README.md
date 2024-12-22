@@ -31,8 +31,8 @@ Before running this application, make sure you have the following installed:
 
 1. Clone this repository:
    ```cmd
-   git clone https://github.com/yourusername/django-login-app.git
-   cd django-login-app
+   git clone https://github.com/Spandana-M-Patil/Submission.git
+   cd Submission
    ```
 2. Create and activate a virtual environment:
    ```cmd
